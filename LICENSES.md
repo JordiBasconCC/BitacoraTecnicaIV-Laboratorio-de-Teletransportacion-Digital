@@ -21,3 +21,11 @@ Ubuntu server es una distribución GNU/Linux que se basa en Debian GNU/Linux, in
 Cuenta con una **licencia GPL** (General Public License) (Licencias de derecho de autor de software libre y código abierto)
 
 [Fuente Oficial](https://es.wikipedia.org/wiki/GNU_General_Public_License)
+
+## PostgreSQL
+
+PostgreSQL es un sistema de gestión de base de datos relacional orientado a objetos y de código abierto.
+
+Cuenta con una **licencia PostgreSQL Global Development Group**
+
+[Fuente Oficial](https://es.wikipedia.org/wiki/PostgreSQL)
