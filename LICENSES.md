@@ -29,3 +29,11 @@ PostgreSQL es un sistema de gestión de base de datos relacional orientado a obj
 Cuenta con una **licencia PostgreSQL Global Development Group**
 
 [Fuente Oficial](https://es.wikipedia.org/wiki/PostgreSQL)
+
+## Docker Engine 
+
+Docker es un proyecto código abierto que automatiza el despliegue de aplicaciones en contenedores de software y proporciona una capa adicional de abstracción y automatización en múltiples sistemas operativos.
+
+Cuenta con una **licencia Apache License 2.0** (Licencia es de software libre permisiva)
+
+[Fuente Oficial](https://es.wikipedia.org/wiki/Docker_\(software\))
