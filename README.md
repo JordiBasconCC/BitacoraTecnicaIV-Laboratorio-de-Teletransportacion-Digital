@@ -1,1 +1,0 @@
-# BitacoraTecnicaIV-Laboratorio-de-Teletransportacion-Digital-
