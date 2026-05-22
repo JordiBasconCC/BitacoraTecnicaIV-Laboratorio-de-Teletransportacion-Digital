@@ -33,7 +33,7 @@ La elección de SFTP es debida a su robustez en seguridad, al operar sobre el pr
 
 Para la gestión de incidentes y el monitoreo en tiempo real, se integrará Slack con nuestro sistema de alertas automáticas y le configuraremos un canal dedicado llamado alertas de producción, al cual el servidor enviará una notificación inmediata en caso de que ocurra una caída del sistema o un pico crítico en el uso de CPU. Al centralizar estas alertas en Slack, el equipo técnico recibirá notificaciones instantáneas en sus dispositivos móviles y de escritorio, permitiendo una coordinación inmediata, la asignación de un responsable y la resolución del problema en minutos, minimizando así el impacto en los usuarios. 
 
-# 4.- Justificación Científica {#4.--justificación-científica}
+# 4.- Justificación Científica 
 
 La implementación de un sistema de Planificación de Recursos Empresariales (ERP) es una estrategia para mejorar la eficiencia en la industria textil. Este estudio investiga la instalación de un sistema ERP basado en Odoo para optimizar los procesos de producción. Se utilizó un enfoque cualitativo descriptivo mediante observaciones, entrevistas y análisis de documentos. La evaluación del sistema se hizo mediante modelado de procesos utilizando BPMN y DFD. La implementación del ERP Odoo incluyó módulos de Ventas, Inventario, Fabricación, Compras, Contabilidad, Nómina, CRM, Empleados y Datos de Medición. Los resultados mostraron que Odoo integró los procesos de negocio, disminuyó el registro manual, aceleró el flujo de trabajo y mejoró la precisión de los datos. De este modo, se comprobó que Odoo ERP incrementa la eficiencia en la producción en la industria textil. 
 
